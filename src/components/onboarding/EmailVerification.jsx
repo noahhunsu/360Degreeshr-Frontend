@@ -80,7 +80,6 @@ export default function EmailVerification() {
             </div>
           </div>
         </div>
-
       </div>
     </section>
   )

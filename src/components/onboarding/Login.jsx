@@ -100,9 +100,9 @@ export default function Login() {
                                         type={showPassword ? "text" : "password"}
                                         placeholder="Password"
                                         className="w-full px-4 py-3 text-white md:text-black border 
-                                        border-white md:border-black/20 rounded-lg 
-                                        focus:outline-none focus:ring focus:ring-black/50
-                                    "
+                                            border-white md:border-black/20 rounded-lg 
+                                            focus:outline-none focus:ring focus:ring-black/50
+                                        "
                                     />
 
                                     <button
